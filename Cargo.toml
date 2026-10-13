@@ -1,0 +1,12 @@
+[package]
+name = "flatrate-math"
+version = "0.1.1"
+edition = "2021"
+description = "Benchmark math for flat-rate software subscriptions against the fully loaded cost of a senior developer hire."
+license = "MIT"
+homepage = "https://poketdev.com"
+repository = "https://github.com/scrapertweeter3-prog/flatrate-math"
+keywords = ["pricing", "subscription", "cost", "benchmark"]
+categories = ["mathematics"]
+
+[dependencies]
