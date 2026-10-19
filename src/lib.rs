@@ -1,3 +1,12 @@
+// flatrate-math: benchmark math for flat-rate software subscriptions
+// against the fully loaded cost of a senior developer hire.
+//
+// Copyright (C) 2026 James Verlander
+//
+// SPDX-License-Identifier: MIT
+// This file is licensed under the MIT license; see the LICENSE file in
+// this repository for the full text.
+
 //! Benchmark math for flat-rate software subscriptions against the
 //! fully loaded cost of a senior developer hire.
 
